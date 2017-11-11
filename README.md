@@ -8,8 +8,7 @@
 
 ![Coach][2]
 
-![Coaches](https://github.com/likesiwell/likesiwell.github.io/blob/master/figs/coach.png)
+![Coaches](https://raw.githubusercontent.com/likesiwell/likesiwell.github.io/master/figs/coach.png)
 
   [1]: https://likesiwell.github.io/cmd
-  [2]: https://github.com/likesiwell/likesiwell.github.io/blob/master/figs/coach.png
-  
+  [2]: https://raw.githubusercontent.com/likesiwell/likesiwell.github.io/master/figs/coach.png
